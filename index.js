@@ -5,8 +5,6 @@
  * Started 9/19/19
  */
 
- // most of this code is fucking disgusting and I intend to make a v2 version of this bot that's more crash free lmfao
-
 const Discord = require('discord.js');
 const Guardian = new Discord.Client();
 
